@@ -252,6 +252,7 @@ const style = StyleSheet.create({
         fontWeight:'bold',
         color:'#494495',
         fontSize:16
+
     }
 });
 
